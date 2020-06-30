@@ -1,5 +1,5 @@
 {
-  "name": "hello/yii2-dlj",
+  "name": "dljhello/yii2-dlj",
   "description": "Hello, Composer!",
   "type": "yii2-extension",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "hello\\dlj\\": "yii2-dlj/src"
+      "dljhello\\dlj\\": "yii2-dlj/src"
     }
   }
 }
