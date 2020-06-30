@@ -1,25 +1,19 @@
 {
-  "name": "dljhello/yii2-dlj",
-  "description": "Hello, Composer!",
-  "type": "yii2-extension",
-  "keywords": [
-    "yii2"
-  ],
-  "license": "BSD-4-Clause",
-  "authors": [
-    {
-      "name": "dlj",
-      "email": "dyongli001@163.com"
+    "name": "dljfirst/dlj",
+    "description": "composer test",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "dai",
+            "email": "2195115234@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dljfirst\\dlj\\": "src"
+        }
     }
-  ],
-  "minimum-stability": "dev",
-  "require": {
-    "php": ">=7.0",
-    "yiisoft/yii2": "~2.0.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "dljhello\\dlj\\": "yii2-dlj/src"
-    }
-  }
 }

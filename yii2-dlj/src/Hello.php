@@ -1,13 +1,13 @@
 <?php
 
 
-namespace hello\dlj;
+namespace dljfirst\dlj;
 
 
 class Hello
 {
-    public static function greet()
+    public static function show()
     {
-        echo "Hello, Composer!", PHP_EOL;
+        return "代刘杰";
     }
 }
