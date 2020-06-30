@@ -1,5 +1,5 @@
 {
-  "name": "hello/dlj",
+  "name": "hello/dlj/src",
   "description": "Hello, Composer!",
   "type": "yii2-extension",
   "license": "BSD-4-Clause",
