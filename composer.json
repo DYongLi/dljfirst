@@ -2,7 +2,7 @@
     "name": "dljfirst/yii2-dlj",
     "description": "composer test",
     "type": "yii2-extension",
-    "license": "BSD-3-Clause",
+    "license": "BSD-4-Clause",
     "authors": [
         {
             "name": "dai",
