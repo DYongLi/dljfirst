@@ -1,0 +1,22 @@
+{
+  "name": "hello/dlj",
+  "description": "Hello, Composer!",
+  "type": "yii2-extension",
+  "license": "BSD-4-Clause",
+  "authors": [
+    {
+      "name": "dlj",
+      "email": "dyongli001@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "hello\\dlj\\": "src"
+    }
+  }
+}
